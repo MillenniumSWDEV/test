@@ -1,5 +1,8 @@
 <template>
-	<div id="CardComponent">카드컴포넌트다!!!</div>
+	<div id="CardComponent">
+		<h1>추가</h1>
+		카드컴포넌트다!!!
+	</div>
 </template>
 
 <script>
