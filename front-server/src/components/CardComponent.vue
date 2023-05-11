@@ -1,7 +1,7 @@
 <template>
 	<div id="CardComponent">
 		<h1>추가</h1>
-		카드컴포넌트다!!!
+		컨플릭트 해결연습
 		<h2>yeah</h2>
 	</div>
 </template>
